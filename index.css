@@ -1,0 +1,91 @@
+/* body
+{
+    background-image: url("https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/static/optimized/rev-86e5434/online-decorating/wp-content/uploads/2018/11/best-interior-design-blogs-design-milk.jpg");
+    background-size:cover;
+    background-position:auto;
+    background-repeat: no-repeat;
+} */
+#header
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+#header
+{ 
+    background: rgba(76, 175, 80, 0.1);
+}
+#first-div
+{
+    text-align:center;
+    width: 40%;
+    margin:10px 0px
+}
+#first-div p
+{
+    padding:15px 0px;
+}
+#article
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px; 
+}
+#snd-div
+{
+    text-align:center;
+    width: 40%;
+    margin:10px 0px 
+}
+#article
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+#article
+{ 
+    background: rgba(76, 175, 80, 0.1);
+}
+#snd-div img
+{
+    width: 250px;
+    height: 150px;
+}
+#sndarticle
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px; 
+}
+#third-div
+{
+    text-align:center;
+    width: 40%;
+    margin:10px 0px 
+}
+#sndarticle
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+#sndarticle
+{ 
+    background: rgba(76, 175, 80, 0.1);
+}
+#third-div img
+{
+    width: 250px;
+    height: 150px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    color: rgb(233, 165, 165);
+  }
